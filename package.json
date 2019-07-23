@@ -1,0 +1,27 @@
+{
+  "name": "dialogic.js",
+  "version": "1.0.0",
+  "description": "generative interactive dialog",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha ./test --recursive -r esm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhowe/dialogic.js.git"
+  },
+  "keywords": [
+    "generative",
+    "interactive",
+    "dialog"
+  ],
+  "author": "daniel howe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhowe/dialogic.js/issues"
+  },
+  "homepage": "https://github.com/dhowe/dialogic.js#readme"
+}
